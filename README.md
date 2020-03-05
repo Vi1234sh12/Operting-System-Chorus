@@ -1,0 +1,2 @@
+# Operting-System-Chorus
+ChorusOS is a microkernel real-time operating system designed as a message-based computational model. ChorusOS started as the Chorus distributed real-time operating system research project at Institut National de Recherche en Informatique et Automatique (INRIA) in France in 1979.[1] During the 1980s, Chorus was one of two earliest microkernels (the other being Mach) and was developed commercially by Chorus Systèmes.[2] Over time, development effort shifted away from distribution aspects to real-time for embedded systems
